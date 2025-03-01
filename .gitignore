@@ -1,0 +1,9 @@
+/data/wiki/
+/data/inpainting/
+/data/insight/
+/data/text2img/
+
+/resized_data/train/real/
+/resized_data/train/fake/
+/resized_data/val/real/
+/resized_data/val/fake/
