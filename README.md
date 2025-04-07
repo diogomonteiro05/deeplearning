@@ -10,3 +10,13 @@ This project aims to develop deep learning models for both **deepfake detection*
 ✅ **Performance Evaluation**: Assess classifier performance with accuracy, precision, recall, and F1-score. Evaluate generative model quality using **FID (Fréchet Inception Distance)** and **Inception Score** to measure the quality of generated images.  
 ✅ **Iterative Model Improvement**: Implement data augmentation, hyperparameter tuning, and regularization techniques for performance enhancement.  
 ✅ **Advanced Techniques (Bonus)**: Investigate **self-supervised learning, uncertainty quantification, and federated learning** for potential improvements.  
+
+
+## Setting up the data
+The dataset is available in the following link: https://huggingface.co/datasets/OpenRL/DeepFakeFace.
+
+
+
+<!--TODO:
+The code in this project assumes that the data is inside the folder `data`, organized in the following way:
+-->
